@@ -29,3 +29,5 @@ iRead是一个开源并适用于多计算器平台的电子书阅读器项目
 **ExAcler**
 
    * 平台:Prizm
+   * 电子邮件:exacler96@gmail.com
+   * QQ:496937921
